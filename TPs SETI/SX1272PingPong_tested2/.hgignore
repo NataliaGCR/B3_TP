@@ -1,8 +1,0 @@
-^BUILD$
-^.clangd$
-^compile_commands.json$
-^.cache$
-^mbed$
-^.mbed$
-^Air_Quality$
-^SX1272Lib$

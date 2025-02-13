@@ -1,4 +1,0 @@
-[ui]
-ignore.local = .hg/hgignore
-[paths]
-default = https://os.mbed.com/teams/Semtech/code/SX1272PingPong/
