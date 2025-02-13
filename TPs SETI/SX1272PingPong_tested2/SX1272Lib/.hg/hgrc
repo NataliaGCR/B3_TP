@@ -1,0 +1,5 @@
+[ui]
+ignore.local = .hg/hgignore
+[paths]
+mbed-studio-cache = /home/studio/mbed-studio-data/library-cache/os.mbed.com/teams/Semtech/code/SX1272Lib
+default = http://mbed.org/teams/Semtech/code/SX1272Lib/
